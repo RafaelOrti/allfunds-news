@@ -70,7 +70,10 @@ https://user-images.githubusercontent.com/45425367/216060254-e38ca5b5-f9a9-4f8e-
 - There is a button to change view.
 
 <br/>
-![Imagen4](https://user-images.githubusercontent.com/45425367/216062600-4de383da-71f1-4236-b4d6-8b70a62c1400.png)
+
+![Imagen5](https://user-images.githubusercontent.com/45425367/216063396-ffb2a262-aa23-4df2-bea5-d86b8e036a88.png)
+
+
 
 ### Archived view
 
@@ -82,9 +85,6 @@ https://user-images.githubusercontent.com/45425367/216060254-e38ca5b5-f9a9-4f8e-
 
 
 
----
-## [API Url](https://news-api-allfunds.onrender.com/) 🔗
----
 
 
 ---
