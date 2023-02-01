@@ -13,6 +13,9 @@ News back is a RESTful API created with Express and connected to Atlas MongoDB d
 
 This backend has implemented a connection through websockets that observes any change in the database and in case of 'insert' sends a ping to the frontend to update the data.
 
+![Imagen6](https://user-images.githubusercontent.com/45425367/216063687-26baa507-89e9-4701-9282-3937843d9ef9.png)
+
+
 <br/>
 
 ---
@@ -66,6 +69,9 @@ The backend is reading continuosly the Atlas mongo database to send a websocket 
 
 To simulate an external api creating a new ('insert'), we can use our endpoint POST designed for checking purposes.
 
+https://user-images.githubusercontent.com/45425367/216059791-f886c716-534b-496e-855d-a16b23da7b8b.mp4
+
+
 <br/>
 
 ---
@@ -86,7 +92,6 @@ Or use this json in the body on a Post Request to the endpoint http://localhost:
 }
 ```
 <br/>
-
 
 
 
