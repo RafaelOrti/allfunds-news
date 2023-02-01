@@ -129,4 +129,5 @@ Some TO DO are defined as comments in the code
 - Uncouple the components and use context to provide the data of each view
 - Use DAO, DTO
 - Use pagination instead of scrollable, I know that it is not efficient because all the news is brought every time, but due to lack of time I left this structure, in the code it is specified in comments how to implement it in fact I had made the GET endpoint with this structure, as for the frontend a bootstrap pagination and a useState would have been used for the page number
+-Testing: Jest, Cypress.io
 
