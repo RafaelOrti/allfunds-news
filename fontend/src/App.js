@@ -1,8 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import News from './containers/News';
 import Archived from './containers/Archived';
-
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
