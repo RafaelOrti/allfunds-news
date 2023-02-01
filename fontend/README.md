@@ -13,6 +13,15 @@
 
 News front is an APP with 2 views news view and archived news view, created with React, Axios and Bootstrap and websocket.io-client. 
 
+
+
+
+
+https://user-images.githubusercontent.com/45425367/216062797-12d833ec-d555-41c0-b973-6c72384f4f47.mp4
+
+
+
+
 <br/>
 
 
@@ -40,13 +49,17 @@ News front is an APP with 2 views news view and archived news view, created with
 
 This frontend has implemented a connection through websocket.io-client to update the list of news in news view, when a new is added to the database. 
 
+https://user-images.githubusercontent.com/45425367/216060254-e38ca5b5-f9a9-4f8e-ba87-788207f0df28.mp4
+
+
 <br/>
 
 ---
 ## Views
 ---
 
-<img src="./src/assets/images/Home.png" alt="Home"/>
+![Imagen5](https://user-images.githubusercontent.com/45425367/216062591-b972d20c-4a42-432a-a932-b7d46ed6d488.png)
+
 
 ### News view
 
@@ -57,7 +70,7 @@ This frontend has implemented a connection through websocket.io-client to update
 - There is a button to change view.
 
 <br/>
-<img src="./src/assets/images/Archived.png" alt="Archived"/>
+![Imagen4](https://user-images.githubusercontent.com/45425367/216062600-4de383da-71f1-4236-b4d6-8b70a62c1400.png)
 
 ### Archived view
 
