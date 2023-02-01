@@ -8,12 +8,13 @@
 ---
 ## Technical test for Allfunds.
 ---
+In each of the frontend and backend folders there are the respective readme with information.
 
 Full stack app:
 - Frontend News front is an APP with 2 views news view and archived news view, created with React, Axios and Bootstrap and websocket.io-client.
 - Backend News back is a RESTful API created with Express and connected to Atlas MongoDB database.
 
-In each of the frontend and backend folders there are the respective readme with information.
+
 <br/>
 
 
