@@ -13,9 +13,13 @@ Full stack app:
 - Frontend News front is an APP with 2 views news view and archived news view, created with React, Axios and Bootstrap and websocket.io-client.
 - Backend News back is a RESTful API created with Express and connected to Atlas MongoDB database.
 
+<br/>
 
 
-https://user-images.githubusercontent.com/45425367/216058433-22e70ea8-0a1a-495b-a5f2-99abf0fcd79f.mp4
+
+https://user-images.githubusercontent.com/45425367/216061707-544db2f2-3338-47d2-9d4f-51d7894c5596.mp4
+
+
 
 
 <br/>
@@ -50,6 +54,8 @@ Frontend has implemented a connection through websocket.io-client to update the 
 Backend has implemented a connection through websockets that observes any change in the database and in case of 'insert' sends a ping to the frontend to update the data.
 
 In this videos we can see how when we create a new, its refreshed the list of news.
+<br/>
+
 <br/>
 
 https://user-images.githubusercontent.com/45425367/216059791-f886c716-534b-496e-855d-a16b23da7b8b.mp4
@@ -104,9 +110,12 @@ Initial time was spent specifying and listing the requirements and translating t
 - Study the reusability of components
 
 Here some captures of this designing tasks:
-![Im![Imagen2](https://user-images.githubusercontent.com/45425367/216058641-1e6b453f-f764-4e9b-b7e4-24749c6807a7.png)
-ag![Imagen3](https://user-images.githubusercontent.com/45425367/216058648-29808b5d-b065-4eec-ae1b-5dc80dd586cf.png)
-en1](https://user-images.githubusercontent.com/45425367/216058611-ef656819-0427-4ed0-b8b8-47bd71bab961.png)
+![Imagen1](https://user-images.githubusercontent.com/45425367/216061903-a00c0c9d-6053-46d4-8075-ec54e82a9bc1.png)
+
+![Imagen2](https://user-images.githubusercontent.com/45425367/216061912-724712f9-75ee-4be0-b52f-514a89919d64.png)
+
+![Imagen3](https://user-images.githubusercontent.com/45425367/216061933-3c0d9386-07b9-45bb-ab1e-cfa9bfde14ce.png)
+
 
 
 
