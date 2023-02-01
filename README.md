@@ -118,9 +118,6 @@ Here some captures of this designing tasks:
 
 ![Imagen3](https://user-images.githubusercontent.com/45425367/216061933-3c0d9386-07b9-45bb-ab1e-cfa9bfde14ce.png)
 
-
-
-
 ---
 ## Future developments/TO DO
 ---
