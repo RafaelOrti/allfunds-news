@@ -13,6 +13,7 @@ News back is a RESTful API created with Express and connected to Atlas MongoDB d
 
 This backend has implemented a connection through websockets that observes any change in the database and in case of 'insert' sends a ping to the frontend to update the data.
 <br/>
+
 ![Imagen6](https://user-images.githubusercontent.com/45425367/216063687-26baa507-89e9-4701-9282-3937843d9ef9.png)
 
 
