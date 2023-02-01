@@ -1,9 +1,9 @@
-# frontend-app-ai-peliculas
+
 
 <div align="center">
+# News APP
 <br/>
 ![JavaScript](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/bootstrap-800080?style=for-the-badge&logo=bootstrap)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
