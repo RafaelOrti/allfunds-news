@@ -70,6 +70,8 @@ The backend is reading continuosly the Atlas mongo database to send a websocket 
 
 To simulate an external api creating a new ('insert'), we can use our endpoint POST designed for checking purposes.
 <br/>
+
+
 https://user-images.githubusercontent.com/45425367/216060254-e38ca5b5-f9a9-4f8e-ba87-788207f0df28.mp4
 
 
