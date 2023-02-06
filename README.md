@@ -129,7 +129,7 @@ backend
 - dto, controller, services, validators and error handling
 - use ecm import
 - use pagination instead of fetching everything, resources management
-- testing (jest, travis, jetkins) and ts
+- testing (jest, travis, jetkins), swagger and ts
 - separate server into server, websocket and db
 - Use babel to be able to use ecmaescript in browsers
 
