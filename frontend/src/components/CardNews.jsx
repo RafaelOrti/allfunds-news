@@ -38,7 +38,7 @@ const CardNews = () => {
 
   useEffect(() => {
     getstoredNews()
-  }, [setStoredNews])
+  })
 
   const handleArchiveButton = async report => {
     try {
