@@ -124,7 +124,7 @@ Here some captures of this designing tasks:
 
 Some TO DO are defined as comments in the code
 
-back end
+backend
 
 - dto, controller, services, validators and error handling
 - use ecm import
@@ -133,7 +133,7 @@ back end
 - separate server into server, websocket and db
 - Use babel to be able to use ecmaescript in browsers
 
-Interface
+Frontend
 
 - Decouple the components, and pass context trough the components at the end there is only the view
 news and archived news, the reusable components
