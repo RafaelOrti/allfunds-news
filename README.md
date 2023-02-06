@@ -126,23 +126,23 @@ Some TO DO are defined as comments in the code
 
 back end
 
-1 dto, controller, services, validators and error handling
-2 use ecm import
-3 use pagination instead of fetching everything, resources management
-4 testing (jest, travis, jetkins) and ts
-5 separate server into server, websocket and db
-6 Use babel to be able to use ecmaescript in browsers
+- dto, controller, services, validators and error handling
+- use ecm import
+- use pagination instead of fetching everything, resources management
+- testing (jest, travis, jetkins) and ts
+- separate server into server, websocket and db
+- Use babel to be able to use ecmaescript in browsers
 
 Interface
 
-1 Decouple the components, and pass context trough the components at the end there is only the view
+- Decouple the components, and pass context trough the components at the end there is only the view
 news and archived news, the reusable components
-2 websockets, I'm just passing a ping, normally I would have passed the data through
+- websockets, I'm just passing a ping, normally I would have passed the data through
 websocket and would have added it to the array so as not to have to call the endpoint again for efficiency reasons
-3 When archiving or deleting, I call get again to refresh this is not efficient, it would be best to have worked with the arrangement and remove it in this case
+- When archiving or deleting, I call get again to refresh this is not efficient, it would be best to have worked with the arrangement and remove it in this case
 to reduce the number of calls
-4 testing (jest, travis, jetkins, cypress) and ts
-5 create template, global css, etc...
-6 Use babel to be able to use ecmaescript in browsers
+- testing (jest, travis, jetkins, cypress) and ts
+- create template, global css, etc...
+- Use babel to be able to use ecmaescript in browsers
 
 
