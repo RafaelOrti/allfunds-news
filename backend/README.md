@@ -50,11 +50,11 @@ This backend has implemented a connection through websockets that observes any c
 
 - POST:
 
-  - /news/ -> It allows to create news in the database. It returns a JSON object 'createdNew' with the created new. THis endpoint is only used for an external tool to add news, not by the app.
+  - /news/ -> It allows to create news in the database. It returns a JSON object with the created new. This endpoint is only used for an external tool to add news, not by the app.
 
 - FETCH:
 
-  - /news/:id -> It allows to archive a new. This endpoint add 'archiveDate' with the date of archivement to the new with the id provided. It returns a JSON object 'updatedNew' with the new modified as defined above.
+  - /news/:id -> It allows to archive a new. This endpoint add 'archiveDate' with the date of archivement to the new with the id provided. It returns a JSON object  with the new modified.
 
 - DELETE:
   - /news/:id -> It allows to delete a new. The new with the id provided will be deleted from the database. When a new is deleted it returns a JSON object with 'msg': "Deleted".
@@ -115,8 +115,7 @@ All the data is stored in Atlas MongoDB. The Cluster0 has  a database called all
     └── description: String
     └── storageDate: Date
     └── content: String
-    └── author: Schema.Types.ObjectId
-    └── archived: Boolean
+    └── author: String
     └── archiveDate: Date
   
 ```
