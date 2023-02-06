@@ -124,10 +124,25 @@ Here some captures of this designing tasks:
 
 Some TO DO are defined as comments in the code
 
-- Use babel to be able to use ecmaescript in browsers
-- Change EC6 import and export in backend
-- Uncouple the components and use context to provide the data of each view
-- Use DAO, DTO
-- Use pagination instead of scrollable, I know that it is not efficient because all the news is brought every time, but due to lack of time I left this structure, in the code it is specified in comments how to implement it in fact I had made the GET endpoint with this structure, as for the frontend a bootstrap pagination and a useState would have been used for the page number
--Testing: Jest, Cypress.io
+back end
+
+1 dto, controller, services, validators and error handling
+2 use ecm import
+3 use pagination instead of fetching everything, resources management
+4 testing (jest, travis, jetkins) and ts
+5 separate server into server, websocket and db
+6 Use babel to be able to use ecmaescript in browsers
+
+Interface
+
+1 Decouple the components, and pass context trough the components at the end there is only the view
+news and archived news, the reusable components
+2 websockets, I'm just passing a ping, normally I would have passed the data through
+websocket and would have added it to the array so as not to have to call the endpoint again for efficiency reasons
+3 When archiving or deleting, I call get again to refresh this is not efficient, it would be best to have worked with the arrangement and remove it in this case
+to reduce the number of calls
+4 testing (jest, travis, jetkins, cypress) and ts
+5 create template, global css, etc...
+6 Use babel to be able to use ecmaescript in browsers
+
 
