@@ -65,15 +65,15 @@ https://user-images.githubusercontent.com/45425367/216060254-e38ca5b5-f9a9-4f8e-
 
 
 
+
 - All unarchived news elements are displayed, each news item has a button to archive it and send it to the archived news view.
 - Through websockets, the news list is immediately updated whenever a new item is added to the database.
 - There is a button to change view.
 
 <br/>
 
-![Imagen5](https://user-images.githubusercontent.com/45425367/216063396-ffb2a262-aa23-4df2-bea5-d86b8e036a88.png)
 
-
+![Imagen4](https://user-images.githubusercontent.com/45425367/216915953-047e0dc9-cda4-4661-9744-a8db31743a07.png)
 
 ### Archived view
 
